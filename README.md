@@ -1,2 +1,2 @@
 # wallpaper
-Questo repo conterrà delle immagini originali
+Questo repo conterrà delle immagini originali create da me
